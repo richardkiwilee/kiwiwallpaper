@@ -1,0 +1,14 @@
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\bin\x86\Debug\kiwiwallpaper.exe.config
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\bin\x86\Debug\kiwiwallpaper.exe
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\bin\x86\Debug\kiwiwallpaper.pdb
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\MainWindow.g.cs
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\App.g.cs
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\kiwiwallpaper_MarkupCompile.cache
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\kiwiwallpaper_MarkupCompile.lref
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\MainWindow.baml
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\kiwiwallpaper.g.resources
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\kiwiwallpaper.Properties.Resources.resources
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\kiwiwallpaper.csproj.GenerateResource.Cache
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\kiwiwallpaper.exe
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\kiwiwallpaper.pdb
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Debug\kiwiwallpaper.csprojResolveAssemblyReference.cache

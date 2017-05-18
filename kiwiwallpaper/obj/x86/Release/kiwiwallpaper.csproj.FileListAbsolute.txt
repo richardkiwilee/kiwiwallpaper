@@ -1,0 +1,14 @@
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\bin\x86\Release\kiwiwallpaper.exe.config
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\bin\x86\Release\kiwiwallpaper.exe
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\bin\x86\Release\kiwiwallpaper.pdb
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\MainWindow.g.cs
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\App.g.cs
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\kiwiwallpaper_MarkupCompile.cache
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\kiwiwallpaper_MarkupCompile.lref
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\MainWindow.baml
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\kiwiwallpaper.g.resources
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\kiwiwallpaper.Properties.Resources.resources
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\kiwiwallpaper.csproj.GenerateResource.Cache
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\kiwiwallpaper.exe
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\kiwiwallpaper.pdb
+E:\kiwiwallpaper\kiwiwallpaper\kiwiwallpaper\obj\x86\Release\kiwiwallpaper.csprojResolveAssemblyReference.cache
